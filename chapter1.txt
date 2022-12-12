@@ -1,1 +1,1 @@
-This is Chapter 1 text file, created on Desktop.
+This is an updated version of Chapter 1 text file, on silver branch.
